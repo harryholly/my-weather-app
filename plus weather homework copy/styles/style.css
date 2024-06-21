@@ -1,0 +1,59 @@
+input {
+  border: none;
+  border-radius: 10px;
+}
+h1,
+p,
+main span {
+  font-family: "Major Mono Display", monospace;
+}
+h1 {
+  font-size: 70px;
+}
+main div {
+  left: 293px;
+  font-weight: bold;
+
+  font-size: 50px;
+  padding: 50px;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px auto 0;
+  padding: 0;
+  text-align: center;
+}
+footer {
+  text-align: center;
+  padding: 50px auto 5px;
+}
+
+.container {
+  border: none;
+  text-align: left;
+  background: lightcyan;
+  margin: 100px auto;
+  padding: 70px;
+  border-radius: 10px;
+  max-width: 700px;
+  box-shadow: 2px 5px 5px rgb(118, 173, 188);
+}
+#content {
+  width: 60%;
+  height: 60px;
+  font-size: 20px;
+}
+#enter {
+  width: 21%;
+  height: 60px;
+  background: #015ecc;
+  color: white;
+  font-size: 20px;
+  margin-left: 5px;
+}
+.highlight {
+  color: fuchsia;
+  font-size: 13px;
+}
